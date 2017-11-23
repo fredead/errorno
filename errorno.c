@@ -3,8 +3,6 @@
 #include <string.h>
 
 
-
-
 int main(int argc,char **argv) {
 	int returnCode = 1;
 	if ( argc == 2 && atoi(argv[1]) != 0 ) {
